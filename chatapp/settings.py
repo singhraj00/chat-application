@@ -84,7 +84,7 @@ CHANNEL_LAYERS = {
         'BACKEND': 'channels_redis.core.RedisChannelLayer',
        
         'CONFIG': {
-            "hosts": [('redis://default:IFaLlB2kg44ALpobCPd1AN5fOnnKi1cf@viaduct.proxy.rlwy.net:59337')],
+            "hosts": [('redis://default:ysFDsMvHKQqFqKqkHIdTLRDthzCKKjJz@roundhouse.proxy.rlwy.net:48734')],
              
             
         },
